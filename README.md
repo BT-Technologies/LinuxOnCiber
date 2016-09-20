@@ -1,13 +1,17 @@
 # LinuxOnCiber
 
-##Because?
+##why?
 
 #### A little History.
  I'm (@mitsuzero), a Linux user, have a 2 PC's (internet Cafe), but i'm always ended up, installing (this or that), to take Linux
- Very usable (READ: Flash-yeah! this sucks, but many sites-besides video one- that is needed it- and MP3 support, CUPS  and SAMBA 
- support); my first try (LoC-OS : Linux On Ciber-Operating System), was a very usable "remix" (was Ubuntu(r) based ), and have 
+ Very usable (READ: Flash-yeah! this sucks, but many sites-besides video one- that is needed it- and MP3 support, CUPS  and SAMBA support);
+ my first try (LoC-OS : Linux On Ciber-Operating System), was a very usable "remix" (was Ubuntu(r) based ), and have 
  Some problems when want to update (this was a 1.4 mate DE, but some projects dont work very well on MATE DE upstream). and this 
  project is source based(we are take on decisition package manager would be included).
+ 
+  this is a old screenshot, but we want to "stay" with the design.
+ ![Logo](https://scontent-lax3-1.xx.fbcdn.net/t31.0-8/1404574_700065576670802_5471509_o.jpg "BT-Technologies")
+
  
 ## Who? 
 * Mitsuzero
